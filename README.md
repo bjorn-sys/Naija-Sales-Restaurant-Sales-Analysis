@@ -5,12 +5,12 @@
 ---
 This project analyzes four months (November–February) of restaurant sales data for Naija Tastes, a local Nigerian eatery. The goal is to explore customer demographics, identify top-performing products, and uncover sales trends to support smarter business decisions.
 
-The data was cleaned and prepared using PostgreSQL, transformed in Power Query, and visualized in Power BI. The entire process aims to empower the restaurant with actionable insights to optimize menu performance, streamline operations, and better understand its customers.
+The data was cleaned and prepared using Python, transformed in Power Query, and visualized in Power BI. The entire process aims to empower the restaurant with actionable insights to optimize menu performance, streamline operations, and better understand its customers.
 
 **🧹 Data Cleaning and Preparation**
 ---
 Tools Used:
-PostgreSQL via pgAdmin4
+Python, power bi
 
 Datasets:
 Customers.csv
@@ -18,7 +18,7 @@ products.csv
 Sales.csv
 
 Steps taken:
-Created my table and imported the datasets into PostgreSQL.
+Created my table and imported the datasets into Python.
 Validated data structure against table definitions (customers, products, and sales)
 
 **Checked for and confirmed:**
@@ -148,7 +148,7 @@ GitHub – Project documentation and version control
 
 **📌 Conclusion**
 ---
-Through effective data modeling, insightful SQL analysis, and interactive Power BI dashboards, this project delivers a comprehensive understanding of Naija Tastes' business operations. From identifying top-selling dishes and key customer segments to optimizing staffing and pricing strategies, this analysis serves as a powerful decision-making tool for management. With continued tracking and timely updates, the dashboard can evolve into a real-time performance monitor as the business scales.
+Through effective data modeling, insightful python analysis, and interactive Power BI dashboards, this project delivers a comprehensive understanding of Naija Tastes' business operations. From identifying top-selling dishes and key customer segments to optimizing staffing and pricing strategies, this analysis serves as a powerful decision-making tool for management. With continued tracking and timely updates, the dashboard can evolve into a real-time performance monitor as the business scales.
 
 About
 An end-to-end analytics project for Naija Tastes restaurant using python and Power BI. It explores customer behavior, sales trends, top products, and payment methods to uncover actionable insights and support data-driven business decisions.
