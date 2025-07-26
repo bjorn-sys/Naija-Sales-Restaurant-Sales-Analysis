@@ -104,7 +104,7 @@ The top 3 dishes bring in nearly ₦1M of total revenue. These are not just best
 Digital Payments are Dominant:
 With over 68% of payments via transfer or POS, cashless infrastructure should be a top operational priority.
 
-![My Project Screenshot](C:\Users\USER\Desktop\screen)
+![My Project Screenshot](screen.png)
 
 **✅ Recommendations***
 ---
