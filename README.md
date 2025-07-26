@@ -30,11 +30,10 @@ Verified integrity by comparing:
 total_price = quantity × price
 Preserved same-day purchases from customers as valid (not treated as duplicates)
 
-# 🗂️ See full SQL scripts used for cleaning and analysis in the /sql folder: Sql file
 ---
 # 📊 Statistical Summary
 ---
-Using SQL queries, the following key metrics were derived:
+Using python, the following key metrics were derived:
 Total Sales Revenue: ₦2,290,000
 Total Transactions: 500
 Average Revenue per Transaction: ₦4,570
